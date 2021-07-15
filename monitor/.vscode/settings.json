@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "semaphore.h": "c",
+        "unistd.h": "c",
+        "features.h": "c",
+        "struct_timespec.h": "c"
+    }
+}
